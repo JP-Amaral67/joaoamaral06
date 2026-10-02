@@ -1,24 +1,24 @@
 # joaoamaral06
 # Olá! Eu sou o João Pablo Amaral 👋
 
-Estudante de **Engenharia da Computação** no Centro Universitário UniRuy[cite: 3] e **Técnico em Redes de Computadores** no SENAI CIMATEC[cite: 3]. Busco oportunidades de estágio em Tecnologia da Informação para aplicar e aprimorar meus conhecimentos práticos em projetos desafiadores[cite: 3].
+Estudante de **Engenharia da Computação** no Centro Universitário UniRuy[cite: 3] e **Técnico em Redes de Computadores** no SENAI CIMATEC. Busco oportunidades de estágio em Tecnologia da Informação para aplicar e aprimorar meus conhecimentos práticos em projetos desafiadores.
 
 ---
 
 ### 🚀 Sobre Mim
-- 🎓 **Graduação:** Engenharia da Computação — UniRuy (Previsão de conclusão: 12/2028)[cite: 3]
-- 🛠️ **Formação Técnica:** Curso Técnico em Redes de Computadores — SENAI CIMATEC (Previsão de conclusão: 06/2027)[cite: 3]
-- 🎯 **Áreas de Interesse:** Infraestrutura de TI, Redes sem Fio, Suporte Técnico e Segurança da Informação[cite: 3, 4]
-- 💼 **Experiência:** Ex-Jovem Aprendiz Auxiliar Logístico nos Correios (Suporte operacional e administrativo)[cite: 3, 4]
-- 🌐 **Idiomas:** Português (Nativo) e Inglês Técnico (Leitura de manuais e documentações)[cite: 3]
+- 🎓 **Graduação:** Engenharia da Computação — UniRuy (Previsão de conclusão: 12/2028)
+- 🛠️ **Formação Técnica:** Curso Técnico em Redes de Computadores — SENAI CIMATEC (Previsão de conclusão: 06/2027)
+- 🎯 **Áreas de Interesse:** Infraestrutura de TI, Redes sem Fio, Suporte Técnico e Segurança da Informação
+- 💼 **Experiência:** Ex-Jovem Aprendiz Auxiliar Logístico nos Correios (Suporte operacional e administrativo)
+- 🌐 **Idiomas:** Português (Nativo) e Inglês Técnico (Leitura de manuais e documentações)
 
 ---
 
 ### 🛠️ Conhecimentos Técnicos
-- **Linguagens de Programação:** C/C++, Java e Python (Básico)[cite: 4]
-- **Redes & Infraestrutura:** Fundamentos de Redes (Cisco Networking Academy), Redes Wireless I (Intelbras) e diagnóstico de redes corporativas[cite: 3, 4]
-- **Sistemas & Hardware:** Montagem e manutenção de computadores, Pacote Office e suporte técnico em TI[cite: 4]
-- **Certificações:** Fundamentos de Rede (Cisco), Redes Wireless I (Intelbras) e Letramento Digital (SENAI/BA)[cite: 3]
+- **Linguagens de Programação:** C/C++, Java e Python (Básico)
+- **Redes & Infraestrutura:** Fundamentos de Redes (Cisco Networking Academy), Redes Wireless I (Intelbras) e diagnóstico de redes corporativas
+- **Sistemas & Hardware:** Montagem e manutenção de computadores, Pacote Office e suporte técnico em TI
+- **Certificações:** Fundamentos de Rede (Cisco), Redes Wireless I (Intelbras) e Letramento Digital (SENAI/BA)
 
 ---
 
@@ -32,5 +32,5 @@ Estudante de **Engenharia da Computação** no Centro Universitário UniRuy[cite
 ---
 
 ### 📬 Onde me encontrar
-- **LinkedIn:** [linkedin.com/in/joaoamaral06](https://linkedin.com/in/joaoamaral06)[cite: 3]
-- **E-mail:** [jpsousa0606@yahoo.com](mailto:jpsousa0606@yahoo.com)[cite: 3]
+- **LinkedIn:** [linkedin.com/in/joaoamaral06](https://linkedin.com/in/joaoamaral06)
+- **E-mail:** [jpsousa0606@yahoo.com](mailto:jpsousa0606@yahoo.com)
